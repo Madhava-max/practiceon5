@@ -1,0 +1,13 @@
+C:\Users\kotha\source\repos\practiceon5\swapping\bin\Debug\netcoreapp3.1\swapping.exe
+C:\Users\kotha\source\repos\practiceon5\swapping\bin\Debug\netcoreapp3.1\swapping.deps.json
+C:\Users\kotha\source\repos\practiceon5\swapping\bin\Debug\netcoreapp3.1\swapping.runtimeconfig.json
+C:\Users\kotha\source\repos\practiceon5\swapping\bin\Debug\netcoreapp3.1\swapping.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\practiceon5\swapping\bin\Debug\netcoreapp3.1\swapping.dll
+C:\Users\kotha\source\repos\practiceon5\swapping\bin\Debug\netcoreapp3.1\swapping.pdb
+C:\Users\kotha\source\repos\practiceon5\swapping\obj\Debug\netcoreapp3.1\swapping.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\practiceon5\swapping\obj\Debug\netcoreapp3.1\swapping.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\practiceon5\swapping\obj\Debug\netcoreapp3.1\swapping.AssemblyInfo.cs
+C:\Users\kotha\source\repos\practiceon5\swapping\obj\Debug\netcoreapp3.1\swapping.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\practiceon5\swapping\obj\Debug\netcoreapp3.1\swapping.dll
+C:\Users\kotha\source\repos\practiceon5\swapping\obj\Debug\netcoreapp3.1\swapping.pdb
+C:\Users\kotha\source\repos\practiceon5\swapping\obj\Debug\netcoreapp3.1\swapping.genruntimeconfig.cache
