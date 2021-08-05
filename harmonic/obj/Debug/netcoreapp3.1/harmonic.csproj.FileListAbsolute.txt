@@ -1,0 +1,13 @@
+C:\Users\kotha\source\repos\practiceon5\harmonic\bin\Debug\netcoreapp3.1\harmonic.exe
+C:\Users\kotha\source\repos\practiceon5\harmonic\bin\Debug\netcoreapp3.1\harmonic.deps.json
+C:\Users\kotha\source\repos\practiceon5\harmonic\bin\Debug\netcoreapp3.1\harmonic.runtimeconfig.json
+C:\Users\kotha\source\repos\practiceon5\harmonic\bin\Debug\netcoreapp3.1\harmonic.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\practiceon5\harmonic\bin\Debug\netcoreapp3.1\harmonic.dll
+C:\Users\kotha\source\repos\practiceon5\harmonic\bin\Debug\netcoreapp3.1\harmonic.pdb
+C:\Users\kotha\source\repos\practiceon5\harmonic\obj\Debug\netcoreapp3.1\harmonic.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\practiceon5\harmonic\obj\Debug\netcoreapp3.1\harmonic.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\practiceon5\harmonic\obj\Debug\netcoreapp3.1\harmonic.AssemblyInfo.cs
+C:\Users\kotha\source\repos\practiceon5\harmonic\obj\Debug\netcoreapp3.1\harmonic.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\practiceon5\harmonic\obj\Debug\netcoreapp3.1\harmonic.dll
+C:\Users\kotha\source\repos\practiceon5\harmonic\obj\Debug\netcoreapp3.1\harmonic.pdb
+C:\Users\kotha\source\repos\practiceon5\harmonic\obj\Debug\netcoreapp3.1\harmonic.genruntimeconfig.cache
