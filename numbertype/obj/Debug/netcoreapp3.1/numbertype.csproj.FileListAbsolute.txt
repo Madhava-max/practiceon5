@@ -1,0 +1,13 @@
+C:\Users\kotha\source\repos\practiceon5\numbertype\bin\Debug\netcoreapp3.1\numbertype.exe
+C:\Users\kotha\source\repos\practiceon5\numbertype\bin\Debug\netcoreapp3.1\numbertype.deps.json
+C:\Users\kotha\source\repos\practiceon5\numbertype\bin\Debug\netcoreapp3.1\numbertype.runtimeconfig.json
+C:\Users\kotha\source\repos\practiceon5\numbertype\bin\Debug\netcoreapp3.1\numbertype.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\practiceon5\numbertype\bin\Debug\netcoreapp3.1\numbertype.dll
+C:\Users\kotha\source\repos\practiceon5\numbertype\bin\Debug\netcoreapp3.1\numbertype.pdb
+C:\Users\kotha\source\repos\practiceon5\numbertype\obj\Debug\netcoreapp3.1\numbertype.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\practiceon5\numbertype\obj\Debug\netcoreapp3.1\numbertype.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\practiceon5\numbertype\obj\Debug\netcoreapp3.1\numbertype.AssemblyInfo.cs
+C:\Users\kotha\source\repos\practiceon5\numbertype\obj\Debug\netcoreapp3.1\numbertype.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\practiceon5\numbertype\obj\Debug\netcoreapp3.1\numbertype.dll
+C:\Users\kotha\source\repos\practiceon5\numbertype\obj\Debug\netcoreapp3.1\numbertype.pdb
+C:\Users\kotha\source\repos\practiceon5\numbertype\obj\Debug\netcoreapp3.1\numbertype.genruntimeconfig.cache
