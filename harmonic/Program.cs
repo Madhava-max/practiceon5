@@ -6,8 +6,10 @@ namespace harmonic
     {
         static void Nthharmonicnumber(int n)
         {
-            int num = 1;
-            Console.WriteLine("the result is "+num+"/"+n);
+            for(int i=1;i<=n;i++)
+            {
+                Console.Write("1/{0}+",i);
+            }
 
         }
         static void Main(string[] args)
