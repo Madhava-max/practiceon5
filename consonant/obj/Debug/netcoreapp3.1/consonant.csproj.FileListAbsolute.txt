@@ -1,0 +1,13 @@
+C:\Users\kotha\source\repos\practiceon5\consonant\bin\Debug\netcoreapp3.1\consonant.exe
+C:\Users\kotha\source\repos\practiceon5\consonant\bin\Debug\netcoreapp3.1\consonant.deps.json
+C:\Users\kotha\source\repos\practiceon5\consonant\bin\Debug\netcoreapp3.1\consonant.runtimeconfig.json
+C:\Users\kotha\source\repos\practiceon5\consonant\bin\Debug\netcoreapp3.1\consonant.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\practiceon5\consonant\bin\Debug\netcoreapp3.1\consonant.dll
+C:\Users\kotha\source\repos\practiceon5\consonant\bin\Debug\netcoreapp3.1\consonant.pdb
+C:\Users\kotha\source\repos\practiceon5\consonant\obj\Debug\netcoreapp3.1\consonant.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\practiceon5\consonant\obj\Debug\netcoreapp3.1\consonant.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\practiceon5\consonant\obj\Debug\netcoreapp3.1\consonant.AssemblyInfo.cs
+C:\Users\kotha\source\repos\practiceon5\consonant\obj\Debug\netcoreapp3.1\consonant.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\practiceon5\consonant\obj\Debug\netcoreapp3.1\consonant.dll
+C:\Users\kotha\source\repos\practiceon5\consonant\obj\Debug\netcoreapp3.1\consonant.pdb
+C:\Users\kotha\source\repos\practiceon5\consonant\obj\Debug\netcoreapp3.1\consonant.genruntimeconfig.cache
