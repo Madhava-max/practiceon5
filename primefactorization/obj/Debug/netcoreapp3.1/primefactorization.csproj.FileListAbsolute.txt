@@ -1,0 +1,13 @@
+C:\Users\kotha\source\repos\practiceon5\primefactorization\bin\Debug\netcoreapp3.1\primefactorization.exe
+C:\Users\kotha\source\repos\practiceon5\primefactorization\bin\Debug\netcoreapp3.1\primefactorization.deps.json
+C:\Users\kotha\source\repos\practiceon5\primefactorization\bin\Debug\netcoreapp3.1\primefactorization.runtimeconfig.json
+C:\Users\kotha\source\repos\practiceon5\primefactorization\bin\Debug\netcoreapp3.1\primefactorization.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\practiceon5\primefactorization\bin\Debug\netcoreapp3.1\primefactorization.dll
+C:\Users\kotha\source\repos\practiceon5\primefactorization\bin\Debug\netcoreapp3.1\primefactorization.pdb
+C:\Users\kotha\source\repos\practiceon5\primefactorization\obj\Debug\netcoreapp3.1\primefactorization.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\practiceon5\primefactorization\obj\Debug\netcoreapp3.1\primefactorization.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\practiceon5\primefactorization\obj\Debug\netcoreapp3.1\primefactorization.AssemblyInfo.cs
+C:\Users\kotha\source\repos\practiceon5\primefactorization\obj\Debug\netcoreapp3.1\primefactorization.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\practiceon5\primefactorization\obj\Debug\netcoreapp3.1\primefactorization.dll
+C:\Users\kotha\source\repos\practiceon5\primefactorization\obj\Debug\netcoreapp3.1\primefactorization.pdb
+C:\Users\kotha\source\repos\practiceon5\primefactorization\obj\Debug\netcoreapp3.1\primefactorization.genruntimeconfig.cache
