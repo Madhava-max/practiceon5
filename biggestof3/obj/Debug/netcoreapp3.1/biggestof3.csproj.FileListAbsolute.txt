@@ -1,0 +1,13 @@
+C:\Users\kotha\source\repos\practiceon5\biggestof3\bin\Debug\netcoreapp3.1\biggestof3.exe
+C:\Users\kotha\source\repos\practiceon5\biggestof3\bin\Debug\netcoreapp3.1\biggestof3.deps.json
+C:\Users\kotha\source\repos\practiceon5\biggestof3\bin\Debug\netcoreapp3.1\biggestof3.runtimeconfig.json
+C:\Users\kotha\source\repos\practiceon5\biggestof3\bin\Debug\netcoreapp3.1\biggestof3.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\practiceon5\biggestof3\bin\Debug\netcoreapp3.1\biggestof3.dll
+C:\Users\kotha\source\repos\practiceon5\biggestof3\bin\Debug\netcoreapp3.1\biggestof3.pdb
+C:\Users\kotha\source\repos\practiceon5\biggestof3\obj\Debug\netcoreapp3.1\biggestof3.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\practiceon5\biggestof3\obj\Debug\netcoreapp3.1\biggestof3.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\practiceon5\biggestof3\obj\Debug\netcoreapp3.1\biggestof3.AssemblyInfo.cs
+C:\Users\kotha\source\repos\practiceon5\biggestof3\obj\Debug\netcoreapp3.1\biggestof3.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\practiceon5\biggestof3\obj\Debug\netcoreapp3.1\biggestof3.dll
+C:\Users\kotha\source\repos\practiceon5\biggestof3\obj\Debug\netcoreapp3.1\biggestof3.pdb
+C:\Users\kotha\source\repos\practiceon5\biggestof3\obj\Debug\netcoreapp3.1\biggestof3.genruntimeconfig.cache
